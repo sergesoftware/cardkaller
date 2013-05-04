@@ -1,0 +1,32 @@
+<loader version="1.0">
+	<application id="CardKaller">
+		<name >
+			
+		</name>
+		<description >
+			The calling card manager and Google Voice dialer for BlackBerry
+		</description>
+		<version >
+			1.0.6
+		</version>
+		<vendor >
+			CardKaller Inc.
+		</vendor>
+		<copyright >
+			Copyright (c) 2008-2010 CardKaller Inc
+		</copyright>
+		<fileset Java="1.18">
+			<directory >
+				
+			</directory>
+			<files >
+				cardkallerApp.cod
+				cardKallerMenu.cod
+				cardKallerLib.cod
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

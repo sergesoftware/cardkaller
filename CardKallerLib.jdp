@@ -1,0 +1,71 @@
+## RIM Java Development Environment
+# RIM Project file
+#
+# This file is generated and managed by BlackBerry developer tools.
+# It SHOULD NOT BE modified manually.
+#
+AddOn=0
+AlwaysBuild=0
+[AlxImports
+]
+AutoRestart=0
+[BuildOnlyFiles
+]
+[ClassProtection
+]
+[CustomBuildFiles
+]
+[CustomBuildRules
+]
+[DefFiles
+]
+[DependencyFiles
+]
+Description=Library for CardKaller Application and Menu Items
+ExcludeFromBuildAll=0
+[Files
+src\AddCard.png
+src\addcard_120x88.png
+src\addcard_70x54.png
+src\CardKallerModel.java
+src\DeleteCard.png
+src\deletecard_83x52.png
+src\DeleteComplete.java
+src\editcard_70x54.png
+src\footer_240x36.png
+src\header_240x48.png
+src\MakeCall.png
+src\makecall_70x52.png
+src\MakeCallStatus.java
+src\MyBaseScreen.java
+src\MyBasicEditField.java
+src\MyBitMapField.java
+src\MyLabelField.java
+src\StringTokenizer.java
+src\Tools.java
+src\UnderlinedLabelField.java
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+]
+[ImplicitRules
+]
+[Imports
+]
+Listing=0
+NoImport=0
+Options=-deprecation 
+OutputFileName=CardKallerLib
+[PackageProtection
+]
+RibbonPosition=0
+[RolloverIcons
+]
+RunOnStartup=0
+StartupTier=7
+SystemModule=0
+Type=2
+Vendor=cardKaller Inc
+Version=1.0.5

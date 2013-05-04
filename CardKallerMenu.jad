@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: CardKallerMenu
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_menuitem,CardKallerLib,net_rim_bbapi_phone,net_rim_pdap
+MIDlet-Jar-Size: 10894
+MIDlet-1: CardKaller,,
+RIM-COD-Creation-Time: 1330486433
+MIDlet-Jar-URL: CardkallerMenu.jar
+RIM-COD-URL: CardKallerMenu.cod
+RIM-COD-SHA1: b7 bd 66 6c 18 2d 44 d8 95 4e 0f dc a1 cd 6d dc 23 0f 8c 21
+RIM-COD-Size: 5044
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.5
+MIDlet-Name: CardkallerMenu
+MIDlet-Description: Menu Item for cardKaller Application
+MIDlet-Vendor: cardKaller Inc
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 3

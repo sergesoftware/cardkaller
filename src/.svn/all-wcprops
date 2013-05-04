@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/cardkaller_ck/!svn/ver/33/src
+END
+Header_Main.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/cardkaller_ck/!svn/ver/6/src/Header_Main.png
+END
+AddPin.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cardkaller_ck/!svn/ver/31/src/AddPin.java
+END
+AdvancedUserStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cardkaller_ck/!svn/ver/31/src/AdvancedUserStep.java
+END
+StringTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cardkaller_ck/!svn/ver/6/src/StringTokenizer.java
+END
+CardKallerCardNameSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cardkaller_ck/!svn/ver/31/src/CardKallerCardNameSelection.java
+END
+makecall_120x88.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cardkaller_ck/!svn/ver/6/src/makecall_120x88.png
+END
+EditExtraSteps.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cardkaller_ck/!svn/ver/6/src/EditExtraSteps.java
+END
+CardKallerMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cardkaller_ck/!svn/ver/33/src/CardKallerMain.java
+END
+KeyEntryScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cardkaller_ck/!svn/ver/31/src/KeyEntryScreen.java
+END
+MakeCall.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cardkaller_ck/!svn/ver/6/src/MakeCall.png
+END
+editcard_120x88.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cardkaller_ck/!svn/ver/6/src/editcard_120x88.png
+END
+AddAccessCardNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cardkaller_ck/!svn/ver/6/src/AddAccessCardNumber.java
+END
+MakeCallStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cardkaller_ck/!svn/ver/33/src/MakeCallStatus.java
+END
+MyBaseScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cardkaller_ck/!svn/ver/6/src/MyBaseScreen.java
+END
+EditCard.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cardkaller_ck/!svn/ver/6/src/EditCard.png
+END
+AddCardExtraStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cardkaller_ck/!svn/ver/6/src/AddCardExtraStep.java
+END
+AddCardName.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cardkaller_ck/!svn/ver/31/src/AddCardName.java
+END
+Header_MakeCall.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cardkaller_ck/!svn/ver/6/src/Header_MakeCall.png
+END
+header_240x48.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cardkaller_ck/!svn/ver/6/src/header_240x48.png
+END
+Edit.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/cardkaller_ck/!svn/ver/31/src/Edit.java
+END
+CardKallerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cardkaller_ck/!svn/ver/6/src/CardKallerModel.java
+END
+AddCard.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cardkaller_ck/!svn/ver/6/src/AddCard.png
+END
+MyBitMapField.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cardkaller_ck/!svn/ver/6/src/MyBitMapField.java
+END
+AddCardSpecialDigits.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cardkaller_ck/!svn/ver/6/src/AddCardSpecialDigits.java
+END
+footer_240x36.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cardkaller_ck/!svn/ver/6/src/footer_240x36.png
+END
+AddCardPrefixTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cardkaller_ck/!svn/ver/6/src/AddCardPrefixTerm.java
+END
+AddCardAddPause.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cardkaller_ck/!svn/ver/6/src/AddCardAddPause.java
+END
+MyLabelField.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cardkaller_ck/!svn/ver/31/src/MyLabelField.java
+END
+Header_EditCard.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cardkaller_ck/!svn/ver/6/src/Header_EditCard.png
+END
+DeleteComplete.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cardkaller_ck/!svn/ver/6/src/DeleteComplete.java
+END
+CardKallerMenuItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cardkaller_ck/!svn/ver/33/src/CardKallerMenuItems.java
+END
+Header_AddCard.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cardkaller_ck/!svn/ver/6/src/Header_AddCard.png
+END
+UnderlinedLabelField.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cardkaller_ck/!svn/ver/8/src/UnderlinedLabelField.java
+END
+DeleteCard.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/cardkaller_ck/!svn/ver/6/src/DeleteCard.png
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/cardkaller_ck/!svn/ver/6/src/Tools.java
+END
+MyBasicEditField.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cardkaller_ck/!svn/ver/6/src/MyBasicEditField.java
+END
+Header_DeleteCard.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cardkaller_ck/!svn/ver/6/src/Header_DeleteCard.png
+END
+deletecard_83x52.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cardkaller_ck/!svn/ver/6/src/deletecard_83x52.png
+END
+CardKallerMainScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cardkaller_ck/!svn/ver/6/src/CardKallerMainScreen.java
+END
+DeleteCardConfirm.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cardkaller_ck/!svn/ver/6/src/DeleteCardConfirm.java
+END
+AddCardComplete.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cardkaller_ck/!svn/ver/6/src/AddCardComplete.java
+END
+BaseApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cardkaller_ck/!svn/ver/6/src/BaseApp.java
+END
+MakeCallPhoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cardkaller_ck/!svn/ver/6/src/MakeCallPhoneNumber.java
+END
+MyStackWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cardkaller_ck/!svn/ver/6/src/MyStackWrapper.java
+END
+EditCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cardkaller_ck/!svn/ver/6/src/EditCard.java
+END
+addcard_120x88.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cardkaller_ck/!svn/ver/6/src/addcard_120x88.png
+END
+makecall_70x52.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cardkaller_ck/!svn/ver/6/src/makecall_70x52.png
+END
+AddCardCardNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cardkaller_ck/!svn/ver/6/src/AddCardCardNumber.java
+END
+cardKallerMenu.jdp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cardkaller_ck/!svn/ver/6/src/cardKallerMenu.jdp
+END
+cardkaller_logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cardkaller_ck/!svn/ver/6/src/cardkaller_logo.png
+END
+PhoneNumberSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cardkaller_ck/!svn/ver/6/src/PhoneNumberSelection.java
+END
+RegisterProduct.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cardkaller_ck/!svn/ver/6/src/RegisterProduct.png
+END
+deletecard_120x88.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cardkaller_ck/!svn/ver/6/src/deletecard_120x88.png
+END
+editcard_70x54.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cardkaller_ck/!svn/ver/6/src/editcard_70x54.png
+END
+addcard_70x54.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cardkaller_ck/!svn/ver/6/src/addcard_70x54.png
+END

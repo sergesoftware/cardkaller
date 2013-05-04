@@ -1,0 +1,69 @@
+## RIM Java Development Environment
+# RIM Project file
+#
+# This file is generated and managed by BlackBerry developer tools.
+# It SHOULD NOT BE modified manually.
+#
+AddOn=0
+AlwaysBuild=1
+[AlxImports
+]
+AutoRestart=0
+[BuildOnlyFiles
+]
+[ClassProtection
+]
+[CustomBuildFiles
+]
+[CustomBuildRules
+]
+[DefFiles
+]
+[DependencyFiles
+]
+Description=The calling card manager and Google Voice dialer for BlackBerry
+ExcludeFromBuildAll=0
+[Files
+src\AddAccessCardNumber.java
+src\AddCardCardNumber.java
+src\AddCardComplete.java
+src\AddCardExtraStep.java
+src\AddCardName.java
+src\AddCardPrefixTerm.java
+src\AddPin.java
+src\AdvancedUserStep.java
+src\cardkaller_logo.png
+src\CardKallerCardNameSelection.java
+src\CardKallerMain.java
+src\CardKallerMainScreen.java
+src\DeleteCardConfirm.java
+src\Edit.java
+src\KeyEntryScreen.java
+src\MakeCallPhoneNumber.java
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+src\cardkaller_logo.png
+]
+[ImplicitRules
+]
+[Imports
+]
+Listing=0
+NoImport=0
+Options=-quiet 
+OutputFileName=CardKallerApp
+[PackageProtection
+]
+RibbonPosition=0
+[RolloverIcons
+]
+RunOnStartup=0
+StartupTier=7
+SystemModule=0
+Title=CardKaller
+Type=0
+Vendor=cardKaller Inc
+Version=1.0.5

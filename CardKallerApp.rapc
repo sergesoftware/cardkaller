@@ -1,0 +1,10 @@
+MIDlet-Name: CardKallerApp
+MIDlet-Version: 1.0.6
+MIDlet-Vendor: cardKaller Inc
+MIDlet-Description: The calling card manager and Google Voice dialer for BlackBerry
+MIDlet-Jar-URL: CardKallerApp.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: CardKaller,src/cardkaller_logo.png,
+RIM-MIDlet-Flags-1: 0

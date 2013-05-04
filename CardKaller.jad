@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: CardKallerApp
+RIM-COD-Module-Dependencies: net_rim_cldc,CardKallerLib
+MIDlet-Jar-Size: 68678
+MIDlet-1: CardKaller,src/cardkaller_logo.png,
+RIM-COD-Creation-Time: 1278475294
+MIDlet-Jar-URL: CardKallerApp.jar
+RIM-COD-URL: CardKallerApp.cod
+RIM-COD-SHA1: 90 bc 7c 1d 0b d1 56 01 b5 6e f9 30 1d 88 16 d2 e7 b9 30 7b
+RIM-COD-Size: 25088
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.5
+MIDlet-Name: CardKaller
+MIDlet-Description: The calling card manager and Google Voice dialer for BlackBerry
+MIDlet-Vendor: CardKaller Inc
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
+RIM-COD-URL-1: CardKallerMenu.cod
+RIM-COD-Size-1: 4924
+RIM-COD-URL-2: CardKallerLib.cod
+RIM-Library-Flags: 2
+RIM-COD-Size-2: 24540

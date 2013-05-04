@@ -1,0 +1,16 @@
+MIDlet-Name: CardKallerLib
+MIDlet-Version: 1.0.5
+MIDlet-Vendor: cardKaller Inc
+MIDlet-Jar-URL: CardKallerLib.jar
+MIDlet-Jar-Size: 47562
+MIDlet-Description: Library for CardKaller Application and Menu Items
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+Manifest-Version: 1.0
+RIM-COD-URL: CardKallerLib.cod
+RIM-COD-Size: 27532
+RIM-COD-Creation-Time: 1330116766
+RIM-COD-Module-Name: CardKallerLib
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_phone,net_rim_bbapi_invoke
+RIM-COD-SHA1: fa b2 a4 00 48 3b ea a3 b3 ec e3 bd c3 94 1e d9 eb 31 2d e8
+RIM-Library-Flags: 2

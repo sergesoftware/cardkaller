@@ -1,0 +1,42 @@
+## RIM Java Development Environment
+# RIM Workspace file
+#
+# This file is generated and managed by BlackBerry developer tools.
+# It SHOULD NOT BE modified manually.
+#
+[BuildConfigurations
+Debug
+Release
+]
+[CardKallerAppDependsOn
+CardKallerLib
+]
+[CardKallerLibDependsOn
+]
+[CardkallerMenuDependsOn
+CardKallerLib
+]
+[DebugActiveProjects
+CardKallerApp.jdp
+CardkallerMenu.jdp
+]
+DependenciesInWorkspace=1
+[ImplicitRules
+]
+[Imports
+<runtime>
+]
+[ManifestImports
+]
+[Projects
+CardKallerApp.jdp
+CardKallerLib.jdp
+CardkallerMenu.jdp
+]
+[ReleaseActiveProjects
+CardKallerApp.jdp
+CardKallerLib.jdp
+CardkallerMenu.jdp
+]
+VendorOverride=cardKaller Inc
+VersionOverride=1.0.6
